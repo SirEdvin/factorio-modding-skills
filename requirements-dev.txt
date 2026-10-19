@@ -1,0 +1,9 @@
+# Validation tooling only; no runtime skills are installed by this file.
+# Pin direct and transitive dependencies for repeatable local/CI validation.
+skills-ref==0.1.1
+strictyaml==1.7.3
+click==8.5.0
+python-dateutil==2.9.0.post0
+six==1.17.0
+markdown-it-py==4.2.0
+mdurl==0.1.2
